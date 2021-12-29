@@ -1,0 +1,27 @@
+figure img{
+    width: 200px;
+    height: auto;
+    
+}
+
+figure {
+    width: 215px;
+    height: auto;
+    border-width: 5px;
+    border-color:bisque;
+    border-style:groove;
+    float:right;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+
+a:link{
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover{
+    color: red;
+    text-decoration: underline;
+}
