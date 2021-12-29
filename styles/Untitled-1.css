@@ -1,0 +1,25 @@
+body{
+    background-color: #ffe8d6;
+}
+
+h1{
+    color: rgb(128, 60, 21);
+    background-color: rgb(168, 167, 216);
+    font-weight: normal;
+    text-align: center;
+    width:fit-content;
+    letter-spacing: 2px;
+}
+
+button {
+    background-color:#94d2bd;
+    color: darkblue;
+}
+
+#signup{
+    background-color: #0a9396;
+}
+
+#login{
+    background-color: #0a9396;
+}
